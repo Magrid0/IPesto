@@ -38,4 +38,4 @@ Contributions, issues, and feature requests are welcome. Feel free to check the 
 
 ## Author
 
-Magrid0 - [Your GitHub Profile](https://github.com/Magrid0)
+[Magrid0](https://github.com/Magrid0)
