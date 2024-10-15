@@ -8,7 +8,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     // Validate the IP address
     if (filter_var($ip, FILTER_VALIDATE_IP)) {
         // Valid IP address, proceed with API call
-        $accessKey = '3d8eed43022a1996bf7c60995489edd9';
+        $accessKey = 'YOUR_API_KEY';
         $apiUrl = "http://api.ipstack.com/{$ip}?access_key={$accessKey}";
 
         // Fetch the data
