@@ -38,4 +38,4 @@ Contributions, issues, and feature requests are welcome. Feel free to check the 
 
 ## Author
 
-[Magrid0](https://github.com/Magrid0)
+[Magrid0](https://github.com/Magrid0) with some help from chatGPT and codyAI
